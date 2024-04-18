@@ -40,3 +40,22 @@
 .read-the-docs {
   color: #888;
 }
+
+form {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+
+label {
+  padding: 10px;
+}
+
+button {
+  margin: 10px;
+}
+
+h2 {
+  text-decoration: underline;
+  color: lightcoral;
+}
